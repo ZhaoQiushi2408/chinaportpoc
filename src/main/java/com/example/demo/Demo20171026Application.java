@@ -12,7 +12,7 @@ public class Demo20171026Application {
 	
 	@RequestMapping("/")
 	public String hello() {
-		return "s-----Jenkins---v2-v333333";
+		return "This is Jenkins demo version 1";
 	}
 
 
